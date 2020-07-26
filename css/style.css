@@ -1,0 +1,41 @@
+body{
+	background: #79797978;
+}
+
+div{
+	
+width: 1000px;
+	
+margin-left: auto;
+	
+margin-right: auto;
+	
+background: #ffffff;
+	
+padding: 67px;
+}
+img{
+	max-width: 100%;
+}
+h1{
+	
+font-size: 60px;
+	
+margin-top: 0;
+}
+span{
+	
+color: white;
+	
+text-transform: uppercase;
+	
+text-shadow: 4px 3px 12px #020202;
+}
+p{
+	
+font-size: 24px;
+	
+line-height: 1.5;
+	
+color: #565656;
+}
